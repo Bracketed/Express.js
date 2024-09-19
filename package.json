@@ -1,7 +1,7 @@
 {
 	"name": "@bracketed/express",
 	"description": "Fast, typed, unopinionated, minimalist web framework",
-	"version": "4.21.4",
+	"version": "4.21.5",
 	"author": "@bracketed",
 	"contributors": [
 		"Aaron Heckmann <aaron.heckmann+github@gmail.com>",
